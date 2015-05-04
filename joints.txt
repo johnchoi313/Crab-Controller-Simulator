@@ -1,0 +1,9 @@
+Below is the joint configuration for the crab controller:
+-------------------------------------
+
+3c 2c 1c       1d 2d 3d
+          [ ]
+3a 2a 1a  o o  1b 2b 3b
+
+-------------------------------------
+(The two circles are the eyes.)
